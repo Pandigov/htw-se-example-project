@@ -52,3 +52,16 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 |===
 
 **S**__o__ftw__a__r__e__ **_E_**ng__i__n__ee__``r__i__ng``
+
+== Quellcode
+[source,c]
+.hello_world.c
+----
+#include <stdio.h>
+
+int main(int argc, char* argv[])
+{
+    printf("Hello, World!\n");
+    return 0;
+}
+----
