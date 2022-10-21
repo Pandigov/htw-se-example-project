@@ -3,6 +3,7 @@ Alessandra Ruff <alessandra.ruff@htw-dresden.de>
 1.0, 01.09.2019 
 :toc: 
 :toc-title: Inhaltsverzeichnis
+:imagesdir: images
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -65,3 +66,6 @@ int main(int argc, char* argv[])
     return 0;
 }
 ----
+
+=== Bilder
+image::editor.jpg[]
