@@ -7,3 +7,21 @@ Alessandra Ruff <alessandra.ruff@htw-dresden.de>
 
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben der Syntax von AsciiDoc.
+
+== Kennenlernen der Syntax
+
+Über die Aufgaben wird das Dokument Stück für Stück aufgebaut und angepasst.
+
+=== Listen
+
+.Beispiel: unsortierte Liste 
+.Liste von Tieren
+* Hund
+* Affe
+* Giraffe
+
+.Beispiel: sortierte Liste
+.Liste von Aufgaben
+* Erste Aufgabe
+* Zweite Aufgabe
+* Dritte Aufgabe
