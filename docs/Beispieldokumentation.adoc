@@ -4,6 +4,8 @@ Alessandra Ruff <alessandra.ruff@htw-dresden.de>
 :toc: 
 :toc-title: Inhaltsverzeichnis
 :imagesdir: images
+:source-highlighter: rouge
+
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -69,3 +71,11 @@ int main(int argc, char* argv[])
 
 === Bilder
 image::editor.jpg[]
+
+=== Verweise
+
+[source,c]
+----
+include::hello_world.c[lines=3..7]
+----
+
