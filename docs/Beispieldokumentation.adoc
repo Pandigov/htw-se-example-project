@@ -22,6 +22,6 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 
 .Beispiel: sortierte Liste
 .Liste von Aufgaben
-* Erste Aufgabe
-* Zweite Aufgabe
-* Dritte Aufgabe
+. Erste Aufgabe
+. Zweite Aufgabe
+. Dritte Aufgabe
