@@ -25,3 +25,30 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 . Erste Aufgabe
 . Zweite Aufgabe
 . Dritte Aufgabe
+
+== Tabellen und Textformatierung
+[cols="1,1,1"]
+|===
+|*Formatierung*| *Syntax*| *Beschreibung*
+|*bold*
+|\*bold*
+|fetter Text
+
+|_italic_
+|\_italic_
+|kursiver text
+
+|`monospace`
+|\``monospace``
+|Text mit fester Laufweite
+
+|*_bolditalic_*
+|\*\_bolditalic_*
+|Test mit kombinierter Formatierung
+
+|**bold**__italic__
+|\\**bold**\\__italic__
+|Text mit Formatierung innerhalb eines Wortes
+|===
+
+**S**__o__ftw__a__r__e__ **_E_**ng__i__n__ee__``r__i__ng``
